@@ -36,6 +36,35 @@ Facts
 
 <img width="1879" alt="Screenshot 2023-06-25 at 19 15 05" src="https://github.com/shamimice03/of-note/assets/19708705/9d69388e-60f5-4456-9c33-f2798b2c5c81">
 
+# Network Layer
+
+Why ARP?
+Why is a subnet mask?
+
+<img width="1876" alt="Screenshot 2023-06-25 at 20 29 18" src="https://github.com/shamimice03/of-note/assets/19708705/bbf1b65b-f93c-452a-b52c-c3d28e3ce7b1">
+
+<img width="1900" alt="Screenshot 2023-06-25 at 20 33 04" src="https://github.com/shamimice03/of-note/assets/19708705/1ee13f14-7c4d-4398-bdc5-48ff4283374e">
+
+<img width="1875" alt="Screenshot 2023-06-25 at 20 33 58" src="https://github.com/shamimice03/of-note/assets/19708705/efe2f0b8-bf9a-467b-92e7-4908a3e4582e">
+
+<img width="1876" alt="Screenshot 2023-06-25 at 20 35 05" src="https://github.com/shamimice03/of-note/assets/19708705/723d1f05-38ce-4ad6-b133-08253127cc6d">
+
+<img width="1883" alt="Screenshot 2023-06-25 at 20 35 53" src="https://github.com/shamimice03/of-note/assets/19708705/02613ed5-d1ee-4072-b0de-cba2a9840de6">
+
+<img width="1863" alt="Screenshot 2023-06-25 at 20 37 02" src="https://github.com/shamimice03/of-note/assets/19708705/7a5afbb7-b308-4da6-b5fc-0c0bc5854bb9">
+
+<img width="1884" alt="Screenshot 2023-06-25 at 20 37 58" src="https://github.com/shamimice03/of-note/assets/19708705/0bd6b2b7-b20a-4fca-a0b8-d6eff5b712d3">
+
+<img width="1874" alt="Screenshot 2023-06-25 at 20 40 18" src="https://github.com/shamimice03/of-note/assets/19708705/60700fe6-f64d-42b5-b195-d458a742e30b">
+
+<img width="1834" alt="Screenshot 2023-06-25 at 20 40 47" src="https://github.com/shamimice03/of-note/assets/19708705/0bd85a77-9cc3-4f52-bede-ed274ffae686">
+
+
+
+
+
+
+
 
 
 
