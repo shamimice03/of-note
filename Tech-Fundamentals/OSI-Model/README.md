@@ -10,3 +10,6 @@ The OSI (Open Systems Interconnection) model is a framework that describes the f
 
 <img width="1902" alt="Screenshot 2023-06-25 at 17 08 34" src="https://github.com/shamimice03/of-note/assets/19708705/865f189a-12e5-4524-9ba9-e57f5bc92bac">
 
+<img width="1907" alt="Screenshot 2023-06-25 at 17 29 16" src="https://github.com/shamimice03/of-note/assets/19708705/a52db936-3dac-4f4a-9083-229b7b2df255">
+
+
