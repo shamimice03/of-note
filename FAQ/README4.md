@@ -1,0 +1,10 @@
+- Why this role/Amazon/AWS?
+- Tell me about yourself?
+- What is a time when you had an opinion/decision about something that others did not agree?
+- What is a time when others had an opinion/decision about something that you did not agree with?
+- What are processes? What are threads?
+- What is DNS and how does it work?
+- Tell me about a time where you could not meet the expectations you have given yourself to a customer.
+- Tell me about a time where you were in an environment outside of your comfort zone.
+- Tell me about a time where you went above and beyond for a customer.
+- Offered question to solve a coding problem relating to graphs (wasn’t necessary to solve but they wanted to know how I would approach that kind of problem)
