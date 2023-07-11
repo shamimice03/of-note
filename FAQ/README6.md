@@ -3,20 +3,12 @@
 - Difference between Hard link and soft link
 - how do we see all the processes that are running ? do you know any options for this command?
 - How can we check if there is an open connection to a remote host?
-2 Answers
-If you don't remember which arguments you can use with a command, what do you do?
-1 Answer
-Suppose that i'm a client and i cannot connect to a remote server using ssh. How do you troubleshoot this problem ?
-1 Answer
-Do you know any tools to configure a firewall?
-2 Answers
-Describe me the 3-way handshake in a simple way
-2 Answers
-Differences between TCP and UDP
-2 Answers
-Why a client should use a cloud infrastructure?
-1 Answer
-What are from your point of view the advantages to use git?
-1 Answer
-What is a container?
-2 Answers
+- If you don't remember which arguments you can use with a command, what do you do?
+- Suppose that i'm a client and i cannot connect to a remote server using ssh. How do you troubleshoot this problem ?
+- Do you know any tools to configure a firewall?
+- Describe me the 3-way handshake in a simple way
+- Differences between TCP and UDP
+- Why a client should use a cloud infrastructure?
+- What are from your point of view the advantages to use git?
+- What is a container?
+
