@@ -1,0 +1,28 @@
+- where does the browser save the cache
+- where does the os save the cache
+- does router save the cache
+- how many ips does the subnet of 255.255.255.0
+- how many of those can be used
+- where does the nat gateway reside in private and public subnet
+- your application crashed, what can you check (think system metrics like CPU)
+- web server is not able to access the server, it can reach the same server in the same VPC, network wise everything looks okay. (think app logs)
+- how to check historical CPU - HTOP
+- how to check size of files in a linux directory
+- what are inodes
+- what is forward and reverse proxy server
+- what is DHCP
+- what happens when you type in browser www.amazon.com
+- how to update auto scaling group? can it be done without downtime? (think update template template)
+- how can you have dependencies installed on the 1000 instance (think AMI)
+- OSI model
+- describe any 2 layers of the OSI model
+- which 2 layers are is amazon responsible for
+
+- what is blue green deployment? compare with rolling/canary deployment
+- how does rollback deployment happen in blue/green? how does rollback happen in canary deployment?
+- customer wants suggestion on how many environments do they need
+- cust env passes validations in test env but fails in prod
+- cust env passes validations in all other env but fails in prod
+- what is continuos integration and continuous delivery
+- what is the difference between continuous delivery and continous deployment
+- how do you set up ansible? how does ansible know which hosts to target
