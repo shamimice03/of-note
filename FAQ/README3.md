@@ -1,0 +1,6 @@
+- What happens when you type in "amazon.com" to your web browser?
+- What distinguishes a local IP address from a public IP address? Why can't a local IP address be accessed from the internet by default?
+- Describe all the various HTTP requests and their functions.
+- How would you secure a website beyond an SSL certification? How does SSL work?
+- AD, OU, DNS, DHCP
+- How would you migrate someone over from MySQL to SQL Server?
