@@ -4,3 +4,23 @@
 - How would you secure a website beyond an SSL certification? How does SSL work?
 - AD, OU, DNS, DHCP
 - How would you migrate someone over from MySQL to SQL Server?
+- How DNS works?
+- Can you explain tcp 3 way handshake?
+- How Internet works
+- TCP/IP
+- Application deployment architecture
+- CDN caching
+- HTTP layer troubleshooting specially slowness
+- Different leadership principals
+- Basics about the concept of ARP
+- basics about the concept of HTTP
+- TCP and UDP
+- TCP and UDP
+- process starting from how IP address request is sent from browser to OS to the DNS resolver and further
+- httpvshttps
+- network layer protocol
+- linux commands
+- troubleshooting
+- Wireshark/tcpdump/Firewall/Loadbalancer
+- Packet level questions
+- Explain how the DNS protocol works
