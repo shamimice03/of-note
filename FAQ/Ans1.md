@@ -28,6 +28,8 @@ and the last IP addresses are reserved for network and broadcasts respectively.
 
 ### CIDR 
 Classless Inter-Domain Routing (Slash Notation)
+- Subnet mask can be represented using the slash notation.
+- Example:  `10.3.97.5/24`  - Here subnet mask is ( 255.255.255.0)
 <img width="1276" alt="Screenshot 2023-07-12 at 0 06 16" src="https://github.com/shamimice03/of-note/assets/19708705/57d9e86e-5936-4946-918e-cc25ddce304f">
 
 #### Refs: 
