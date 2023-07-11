@@ -34,3 +34,23 @@ Classless Inter-Domain Routing (Slash Notation)
 
 #### Refs: 
 - https://www.youtube.com/watch?v=s_Ntt6eTn94&ab_channel=PowerCertAnimatedVideos
+
+***
+
+### Address Resolution Protocol (ARP)
+- Arp used to resolve IP addresses to MAC addresses
+
+#### Why do we need ARP protocol?
+ARP (Address Resolution Protocol) is essential for proper functioning IP networks as it facilitates communication between devices on a local network by mapping IP addresses to physical (MAC) addresses. 
+This mapping is necessary for data transmission at the Data Link Layer, where communication takes place using MAC addresses rather than IP addresses. 
+Without ARP, devices would not be able to identify each other on the network, and communication would not be achievable. Additionally, ARP also helps to detect duplicate IP addresses on a network, 
+which can cause communication issues if not resolved.
+
+#### Examples:
+<img width="1881" alt="Screenshot 2023-07-12 at 0 50 46" src="https://github.com/shamimice03/of-note/assets/19708705/1e5be9d7-0d48-4605-a4f1-006696e48cd9">
+<img width="1868" alt="Screenshot 2023-07-12 at 1 00 52" src="https://github.com/shamimice03/of-note/assets/19708705/0edc54fe-e0ff-4efc-9350-0dea085873e9">
+
+#### Refs:
+- https://learn.cantrill.io/courses/2022818/lectures/45636951
+- https://www.cloudns.net/blog/arp-address-resolution-protocol-why-is-it-important/
+- https://www.youtube.com/watch?v=cn8Zxh9bPio&t=31s&ab_channel=PowerCertAnimatedVideos
