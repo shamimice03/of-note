@@ -4,3 +4,5 @@
 - Subnetting is the process of dividing a network into two or more subnets.
 It's the Subnet mask which allows a HOST to determine if an IP address it needs to communicate with local or remote - which influences if it needs to use gateway
 or can communicate locally.
+
+#### Ref: https://www.cloudflare.com/learning/network-layer/what-is-a-subnet/
