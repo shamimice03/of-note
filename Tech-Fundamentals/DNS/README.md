@@ -9,3 +9,6 @@
 # How to register a Domain:
 
 ![image](https://github.com/shamimice03/of-note/assets/19708705/9ab972c9-adc6-4d39-b8c6-321cbef22d1f)
+
+### More:
+- https://medium.com/@alysachan830/what-happens-from-typing-in-a-url-to-displaying-a-website-part-1-dns-cache-and-dns-lookup-86441848ea59
