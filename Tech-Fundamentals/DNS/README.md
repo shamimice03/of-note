@@ -15,3 +15,6 @@
 
 ### More:
 - https://medium.com/@alysachan830/what-happens-from-typing-in-a-url-to-displaying-a-website-part-1-dns-cache-and-dns-lookup-86441848ea59
+
+### Questions:
+- https://www.devopsschool.com/blog/interview-questions-answer-for-dns/
