@@ -1,8 +1,8 @@
 ### Prerequisite
 - Attach `ElastiIP` on the target EC2 instance
 - Create two DNS record on route53.
-  - prometheus.kubecloud.net A `elastic-ip`
-  - www. prometheus.kubecloud.net `elastic-ip`
+  - prometheus.kubecloud.net ------ A ------- `elastic-ip`
+  - www.prometheus.kubecloud.net ------- A ------- `elastic-ip`
 - For the sake of the configuration open all incoming traffic in the target instance security group
   
 ### Install `certbot` on `amazon linux 2`
