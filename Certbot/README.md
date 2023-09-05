@@ -43,7 +43,7 @@ sudo vim sudo nano /etc/nginx/nginx.conf
 ```
 
 #### Template
-```
+```bash
 server {
     listen 80;
     server_name yourdomain.com www.yourdomain.com;
