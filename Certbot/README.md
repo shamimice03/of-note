@@ -92,3 +92,12 @@ server {
 ```
 sudo systemctl restart nginx
 ```
+
+### Renew cert
+Remember to renew your SSL certificate every 90 days if you’re using Let’s Encrypt. You can automate this process with a cron job:
+```
+echo "0 12 * * * /usr/bin/certbot renew --quiet" | sudo tee -a /etc/crontab > /dev/null
+```
+
+### Ref:
+- https://saturncloud.io/blog/installing-ssl-certificates-on-aws-ec2-instances-without-cloudfront-or-elastic-load-balancing/
